@@ -2,7 +2,6 @@
 
 This repository contains a collection of scripts, dataset and tools for LDA model for Abstract topics and README topics.
 
-
 ## Requirements
 
 ```
@@ -19,11 +18,9 @@ beautifulsoup4~=4.10.0
 * **Text Preprocessing** : Perform text preprocessing tasks such as tokenization, stop word removal, stemming, and more using the `nltk` library.
 * **Data Extraction** : Extract text data from github README files.
 
-
 ## Getting Started
 
 To get started with the Textual Analysis Toolbox, follow these steps:
-
 
 1. **Clone the Repository** : Clone this repository to your local machine using the following command:
 
@@ -50,7 +47,6 @@ pip install -r requirements.txt
 `./lda_train`: Train two LDA models.
 
 `data`: All data to train LDA models.
-
 
 ## Examples and Documentation
 
